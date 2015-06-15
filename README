@@ -1,0 +1,24 @@
+Kinect2CloudRecorder
+====================
+Converts kinect's (v2) RGB and Depth stream into .ply objects
+It makes use of Kinect SDK 2.0
+
+How to compile it
+====================
+As this project uses OpenFrameworks (0.8.4) you should clone it inside
+openframeworks/apps/[anyname]/Kinect2CloudRecorder
+
+This is a requirement as VisualStudio will look for Open Frameworks libraries
+from ../../../
+
+OpenFrameworks Addons required
+==============================
+ofxXmlSettings 
+ofxUI
+
+
+Current Project Stage
+=====================
+In development. Kinect2CloudRecorder should be able to display an RGB frame on screen (Currently not working for unknown reasons)
+
+

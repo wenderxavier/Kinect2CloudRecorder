@@ -1,0 +1,9 @@
+*.pdb
+*.exe
+*.lib
+*.exp
+*.ilk
+*.dll
+*.sdf
+*.opensdf
+obj/*
